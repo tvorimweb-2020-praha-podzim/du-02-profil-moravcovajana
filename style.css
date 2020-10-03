@@ -17,3 +17,16 @@ html { box-sizing: border-box; }
 body {
     background-color: #bdc3c7;
 }
+
+.foto{
+    width: 250px;
+    position: relative;    
+}
+
+.logo{
+    position: absolute;
+    top: 140px;
+    left: 190px;
+    background-color: rgb(224, 77, 180);
+    border-radius: 50%;
+}
