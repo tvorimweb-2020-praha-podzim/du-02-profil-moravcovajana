@@ -44,12 +44,12 @@ body {
 
 h1{
     font-family: 'Montserrat', sans-serif;
-    font-size: 27px;
+    font-size: 30px;
 }
 
 p{
     font-family: 'Source Sans Pro', sans-serif;
     color: rgb(192, 189, 189);
-    
+    font-weight: 700;
     font-size: 13px;
 }
